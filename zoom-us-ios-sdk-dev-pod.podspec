@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "Original framework for Zoom.us iOS SDK with x86_64 for simulator"
   spec.homepage     = "https://github.com/etacla/sad-iosbridge"
   spec.license      = "MIT"
-  spec.author             = { "Iago Cavalcante" => "iagoangelimc@gmail.com" }
+  spec.author             = { "Eduardo Tacla" => "eduardo@helix.com.br" }
 
   spec.swift_version              = "5.0"
   spec.ios.deployment_target      = "10.0"
